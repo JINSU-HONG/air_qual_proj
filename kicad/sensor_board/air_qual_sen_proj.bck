@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Arduino_Due_Shield
+D Shield for Arduino Due
+K Arduino MPU Shield
+F https://store.arduino.cc/arduino-due
+$ENDCMP
+#
+#End Doc Library
